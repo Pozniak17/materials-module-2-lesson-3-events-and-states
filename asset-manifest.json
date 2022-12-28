@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-lessons/static/css/main.06fb90c7.css",
-    "main.js": "/react-lessons/static/js/main.65030942.js",
-    "index.html": "/react-lessons/index.html",
-    "main.06fb90c7.css.map": "/react-lessons/static/css/main.06fb90c7.css.map",
-    "main.65030942.js.map": "/react-lessons/static/js/main.65030942.js.map"
+    "main.css": "/module-2-lesson-3-events-and-states/static/css/main.06fb90c7.css",
+    "main.js": "/module-2-lesson-3-events-and-states/static/js/main.65030942.js",
+    "index.html": "/module-2-lesson-3-events-and-states/index.html",
+    "main.06fb90c7.css.map": "/module-2-lesson-3-events-and-states/static/css/main.06fb90c7.css.map",
+    "main.65030942.js.map": "/module-2-lesson-3-events-and-states/static/js/main.65030942.js.map"
   },
   "entrypoints": [
     "static/css/main.06fb90c7.css",
